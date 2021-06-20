@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center">
+  <img src="http://suwandiaminsangaji.xyz/image/wandy.jpg" width="200" height="200" >
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Wandy</h1>
 <h3 align="center">I'm a Developer from Indonesia.</h3>
@@ -8,7 +10,7 @@
 
 - 🔭 I’m currently working on **Coming soon**
 
-- 🌱 I'm a student at **Universitas Muhammadiyah Sorong , West Papua**
+- 🌱 I'm a student at **Universitas Muhammadiyah Sorong**
 
 - 📫 How to reach me **suwandiaminsangaji@gmail.com**
 
