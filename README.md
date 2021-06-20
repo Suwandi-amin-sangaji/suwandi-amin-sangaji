@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Coming soon**
 
-- 🌱 I'm a student at **Universitas Muhammadiyah Sorong**
+- 🌱 I'm a student at **Universitas Muhammadiyah Sorong , West Papua**
 
 - 📫 How to reach me **suwandiaminsangaji@gmail.com**
 
