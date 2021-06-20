@@ -8,9 +8,12 @@
 
 ## 🙋‍♂️ About Me
 
+
 - 🔭 I’m currently working on **Coming soon**
 
 - 🌱 I'm a student at **Universitas Muhammadiyah Sorong**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://suwandiaminsangaji.xyz/)**
 
 - 📫 How to reach me **suwandiaminsangaji@gmail.com**
 
