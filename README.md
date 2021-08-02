@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1c7Zdsde3aKVaK0Aka7h4IbAUAUMcZSMj/view?usp=sharing" width="200" height="200" >
+  <img src="https://lh3.googleusercontent.com/a-/AOh14GhSPKpzaLH1SmgdGVNcl7n7B0TVw4yE3OrGNVvD" width="200" height="200" >
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Wandy</h1>
