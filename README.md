@@ -31,7 +31,6 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
@@ -68,15 +67,15 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/suwandi-amin-sangaji-1762941b2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AminSangaji"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/suwandiaminsangaji/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCMqryU66OYLbLFDNl_IbkQg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a target = "_blank" href = "https://www.linkedin.com/in/suwandi-amin-sangaji-1762941b2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target = "_blank" href = "https://twitter.com/AminSangaji"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a target = "_blank" href = "https://www.instagram.com/suwandiaminsangaji/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a target = "_blank" href = "https://www.youtube.com/channel/UCMqryU66OYLbLFDNl_IbkQg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a  href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=suwandi-amin-sangaji">
 </a>
 <a href="https://github.com/Suwandi-amin-sangaji?tab=followers"><img src="https://img.shields.io/github/followers/suwandi-amin-sangaji?label=Followers&style=social" alt="GitHub Badge"></a>
