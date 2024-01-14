@@ -13,7 +13,7 @@
 
 - 🌱 I'm a student at **Universitas Muhammadiyah Sorong**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://suwandiaminsangaji.my.id/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://wandy.jedev.tech/)**
 
 - 📫 How to reach me **suwandiaminsangaji@gmail.com**
 
