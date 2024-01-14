@@ -56,7 +56,7 @@
 
 <br/>
 <br/>
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=suwandi-amin-sangaji&theme=dracula"><img alt="Suwandi Amin Sangaji Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=suwandi-amin-sangaji&theme=dracula" /></a>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=suwandi-amin-sangaji&theme=merko"><img alt="Suwandi Amin Sangaji Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=suwandi-amin-sangaji&theme=merko" /></a>
 
 <br/>
 <br/>
