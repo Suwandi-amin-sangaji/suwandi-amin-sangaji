@@ -46,6 +46,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="suwandi amin sangaji streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suwandi-amin-sangaji&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=suwandi-amin-sangaji&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ## 📊 My Github Stats
   <br/>
@@ -54,9 +57,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=waaizulfahmi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 
 <br/>
