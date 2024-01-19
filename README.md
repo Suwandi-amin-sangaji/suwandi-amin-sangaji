@@ -55,13 +55,14 @@
 
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/Suwandi-amin-sangaji"><img alt="Suwandi Amin Sangaji Github " src="https://github-readme-stats.vercel.app/api?username=suwandi-amin-sangaji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Suwandi-amin-sangaji"><img alt="suwandi-amin-sangaji Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suwandi-amin-sangaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a> 
+    <a href="https://github.com/suwandi-amin-sangaji"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=suwandi-amin-sangaji&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/suwandi-amin-sangaji"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=suwandi-amin-sangaji&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+   
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
-
-
-
 
 <br/>
 <br/>
