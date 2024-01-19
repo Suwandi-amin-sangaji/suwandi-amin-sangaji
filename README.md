@@ -52,7 +52,11 @@
     <a href="https://github.com/Suwandi-amin-sangaji"><img alt="Suwandi Amin Sangaji Github " src="https://github-readme-stats.vercel.app/api?username=suwandi-amin-sangaji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Suwandi-amin-sangaji"><img alt="suwandi-amin-sangaji Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suwandi-amin-sangaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=waaizulfahmi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 <br/>
