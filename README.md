@@ -77,7 +77,5 @@
 <a  href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=suwandi-amin-sangaji">
 </a>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=suwandi-amin-sangaji"  />
-</div>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
 <a href="https://github.com/Suwandi-amin-sangaji?tab=followers"><img src="https://img.shields.io/github/followers/suwandi-amin-sangaji?label=Followers&style=social" alt="GitHub Badge"></a>
